@@ -684,7 +684,6 @@
             this.IconOptions.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("TinhTienTroo.IconOptions.SvgImage")));
             this.Name = "TinhTienTroo";
             this.Text = "Tính Tiền Trọ";
-            this.Load += new System.EventHandler(this.TinhTienTroo_Load);
             this.groupBox3.ResumeLayout(false);
             this.groupBox3.PerformLayout();
             this.groupBox2.ResumeLayout(false);

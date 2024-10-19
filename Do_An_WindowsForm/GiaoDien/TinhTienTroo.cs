@@ -22,10 +22,5 @@ namespace Do_An_WindowsForm.GiaoDien
         {
 
         }
-
-        private void TinhTienTroo_Load(object sender, EventArgs e)
-        {
-
-        }
     }
 }
