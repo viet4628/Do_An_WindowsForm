@@ -16,7 +16,7 @@ namespace Do_An_WindowsForm
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frm_Quan_Ly());
+            Application.Run(new DangKyPhong());
         }
     }
 }
