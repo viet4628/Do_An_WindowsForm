@@ -11,21 +11,11 @@ using System.Windows.Forms;
 
 namespace Do_An_WindowsForm.GiaoDien
 {
-    public partial class TinhTienTroo : DevExpress.XtraEditors.XtraForm
+    public partial class TraPhongcs : DevExpress.XtraEditors.XtraForm
     {
-        public TinhTienTroo()
+        public TraPhongcs()
         {
             InitializeComponent();
-        }
-
-        private void label5_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void TinhTienTroo_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }
