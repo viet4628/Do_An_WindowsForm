@@ -16,7 +16,11 @@ namespace Do_An_WindowsForm
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+<<<<<<< Updated upstream
             Application.Run(new DangKyPhong());
+=======
+            Application.Run(new Login());
+>>>>>>> Stashed changes
         }
     }
 }
