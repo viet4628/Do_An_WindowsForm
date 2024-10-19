@@ -134,5 +134,10 @@ namespace Do_An_WindowsForm
                 Application.Exit();
             }
         }
+
+        private void frm_Quan_Ly_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
