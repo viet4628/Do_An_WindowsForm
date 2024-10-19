@@ -85,7 +85,7 @@
             this.ribbonPage5,
             this.ribbonPage3,
             this.ribbonPage2});
-            this.ribbon.Size = new System.Drawing.Size(1096, 158);
+            this.ribbon.Size = new System.Drawing.Size(978, 158);
             this.ribbon.StatusBar = this.ribbonStatusBar;
             // 
             // btnTrangThaiPhong
@@ -251,10 +251,10 @@
             // 
             // ribbonStatusBar
             // 
-            this.ribbonStatusBar.Location = new System.Drawing.Point(0, 614);
+            this.ribbonStatusBar.Location = new System.Drawing.Point(0, 546);
             this.ribbonStatusBar.Name = "ribbonStatusBar";
             this.ribbonStatusBar.Ribbon = this.ribbon;
-            this.ribbonStatusBar.Size = new System.Drawing.Size(1096, 24);
+            this.ribbonStatusBar.Size = new System.Drawing.Size(978, 24);
             // 
             // xtraTabControl1
             // 
@@ -267,7 +267,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1096, 638);
+            this.ClientSize = new System.Drawing.Size(978, 570);
             this.Controls.Add(this.xtraTabControl1);
             this.Controls.Add(this.ribbonStatusBar);
             this.Controls.Add(this.ribbon);

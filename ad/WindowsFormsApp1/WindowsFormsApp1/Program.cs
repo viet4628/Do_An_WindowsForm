@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Do_An_WindowsForm
+namespace WindowsFormsApp1
 {
     internal static class Program
     {
@@ -16,15 +16,7 @@ namespace Do_An_WindowsForm
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-            Application.Run(new DangKyPhong());
-=======
-            Application.Run(new Login());
->>>>>>> Stashed changes
-=======
-            Application.Run(new frm_Quan_Ly());
->>>>>>> parent of 53e4625 (Cập nhật Form Đăng Ký)
+            Application.Run(new Form1());
         }
     }
 }
